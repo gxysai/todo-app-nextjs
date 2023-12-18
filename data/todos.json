@@ -2,7 +2,7 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Gym"
+      "text": "Gym edited"
     },
     {
       "id": 2,
@@ -13,16 +13,8 @@
       "text": "Meet with John"
     },
     {
-      "id": "4",
-      "text": "Grocery shopping"
-    },
-    {
       "id": "5",
       "text": "Learn NestJS"
-    },
-    {
-      "id": "8ed81729-8894-4f2b-a433-0bee8e9b9b3d",
-      "text": "Walking with my friend's dog"
     },
     {
       "id": "ad7e991d-dadf-4eee-a7ca-c94b2664f3f0",
