@@ -2,11 +2,11 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Task 1"
+      "text": "Gym"
     },
     {
       "id": 2,
-      "text": "Task 2"
+      "text": "Drink water"
     }
   ]
 }
