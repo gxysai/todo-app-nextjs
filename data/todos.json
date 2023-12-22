@@ -1,24 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Gym edited"
-    },
-    {
-      "id": 2,
+      "id": "df1e59b7-16fc-434d-9d1f-69dbe19bd980",
       "text": "Origin test"
     },
     {
-      "id": "3",
+      "id": "01f6aff7-4afb-47a9-bca3-d8b88aad02a3",
+      "text": "Gym"
+    },
+    {
+      "id": "7e366125-1527-4ef6-91e8-b73149fab435",
       "text": "Meet with John"
-    },
-    {
-      "id": "5",
-      "text": "Learn NestJS"
-    },
-    {
-      "id": "ad7e991d-dadf-4eee-a7ca-c94b2664f3f0",
-      "text": "Learn NextJS"
     }
   ]
 }
